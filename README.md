@@ -1,16 +1,21 @@
-## Hi there 👋
+# MyMurphy.Shop
 
-<!--
-**MurphyShop/MurphyShop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Instant Delivery Digital Services
 
-Here are some ideas to get you started:
+## Features
+- Instant delivery
+- Automated balance system
+- Secure payments
+- Cryptomus & Shopier support
+- Regular stock updates
+- Active customer support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome Bonus
+New users receive 5 mail-access tokens with their first balance deposit.
+
+## Coming Soon
+- SMM Services
+- Additional digital products
+- More payment methods
+
+Website: https://mymurphy.shop
